@@ -1,0 +1,1 @@
+# an area.json file.
